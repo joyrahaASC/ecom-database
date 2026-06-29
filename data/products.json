@@ -1,0 +1,47 @@
+[
+  {
+    "id": "p001",
+    "name": "Wireless Mouse",
+    "description": "Ergonomic wireless mouse with adjustable DPI.",
+    "price": 19.99,
+    "category": "Electronics",
+    "stock": 150,
+    "imageUrl": "/assets/images/wireless-mouse.jpg"
+  },
+  {
+    "id": "p002",
+    "name": "Mechanical Keyboard",
+    "description": "RGB backlit mechanical keyboard with blue switches.",
+    "price": 59.99,
+    "category": "Electronics",
+    "stock": 75,
+    "imageUrl": "/assets/images/mechanical-keyboard.jpg"
+  },
+  {
+    "id": "p003",
+    "name": "Ceramic Coffee Mug",
+    "description": "350ml ceramic mug, dishwasher safe.",
+    "price": 9.50,
+    "category": "Home & Kitchen",
+    "stock": 300,
+    "imageUrl": "/assets/images/coffee-mug.jpg"
+  },
+  {
+    "id": "p004",
+    "name": "Running Shoes",
+    "description": "Lightweight breathable running shoes, unisex.",
+    "price": 49.99,
+    "category": "Footwear",
+    "stock": 60,
+    "imageUrl": "/assets/images/running-shoes.jpg"
+  },
+  {
+    "id": "p005",
+    "name": "Notebook Set (3-pack)",
+    "description": "A5 ruled notebooks, 100 pages each.",
+    "price": 12.00,
+    "category": "Stationery",
+    "stock": 200,
+    "imageUrl": "/assets/images/notebook-set.jpg"
+  }
+]
