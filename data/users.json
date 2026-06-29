@@ -1,0 +1,26 @@
+[
+  {
+    "id": "u001",
+    "name": "Alice Johnson",
+    "email": "alice@example.com",
+    "passwordHash": "$2b$10$KIXQ7Z8h6N3vQ1zJZ8h6N3vQ1zJZ8h6N3vQ1zJZ8h6N3vQ1zJZ8h6",
+    "role": "customer",
+    "createdAt": "2026-01-10T09:00:00Z"
+  },
+  {
+    "id": "u002",
+    "name": "Bob Smith",
+    "email": "bob@example.com",
+    "passwordHash": "$2b$10$AbCdE7Z8h6N3vQ1zJZ8h6N3vQ1zJZ8h6N3vQ1zJZ8h6N3vQ1zJZ8h6",
+    "role": "customer",
+    "createdAt": "2026-02-05T14:30:00Z"
+  },
+  {
+    "id": "u003",
+    "name": "Admin User",
+    "email": "admin@example.com",
+    "passwordHash": "$2b$10$XyZ123Z8h6N3vQ1zJZ8h6N3vQ1zJZ8h6N3vQ1zJZ8h6N3vQ1zJZ8h6",
+    "role": "admin",
+    "createdAt": "2026-01-01T00:00:00Z"
+  }
+]
