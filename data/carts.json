@@ -1,0 +1,25 @@
+[
+  {
+    "id": "c001",
+    "userId": "u001",
+    "items": [
+      {
+        "productId": "p001",
+        "quantity": 2,
+        "priceAtAdd": 19.99
+      },
+      {
+        "productId": "p003",
+        "quantity": 1,
+        "priceAtAdd": 9.50
+      }
+    ],
+    "updatedAt": "2026-06-20T11:15:00Z"
+  },
+  {
+    "id": "c002",
+    "userId": "u002",
+    "items": [],
+    "updatedAt": "2026-06-15T08:00:00Z"
+  }
+]
